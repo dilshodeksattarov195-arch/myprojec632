@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterepdate",
+        "uuid": 2545064,
+        "checksum": "gh7bce"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
